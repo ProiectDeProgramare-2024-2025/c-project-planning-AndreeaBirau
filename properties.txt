@@ -1,0 +1,2 @@
+Villa|123 Palm St|500000|350|5|3|1
+Townhouse|67 Sunsore Blvd|250000|200|4|3|1
